@@ -1,4 +1,0 @@
-ansicolor:latest
-ghprb:latest
-rebuild:latest
-slack:latest
